@@ -1,24 +1,38 @@
-# Olá! 👨‍💻
+![](https://komarev.com/ghpvc/?username=lucasrsnd&color=006bed)
 
-Em busca de aprimorar minhas habilidades em Engenharia de Software enquanto contribuo para a comunidade de desenvolvedores.
+## Sobre mim
 
-## Mais sobre mim
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Engenharia de Software na PUC Minas.
+- 💼 Buscando uma oportunidade de estágio.
+- 🌱 Aprendendo mais sobre testes automatizados, desenvolvimento backend e DevOps.
 
-## Linguagens e ferramentas
+## Minhas Skills
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+**Aplicações e dados**
 
-## Status
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-[instagram]: https://www.instagram.com/lucasrsnd1/
-[linkedin]: https://www.linkedin.com/in/lucas-resende-a48975288
+**DevOps**
 
-<br>
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-## Rede sociais
+**Ferramentas de desenvolvimento**
 
-📷 [Instagram][instagram] **|**
-👔 [Linkedin][linkedin]
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/SEU_USERNAME" title="Meu Perfil">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasrsnd&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-LucasResende-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasrsnd1/)](https://www.linkedin.com/in/lucasrsnd1/)   
+[![GitHub](https://img.shields.io/github/followers/lucasrsnd?label=follow&style=social)](https://github.com/lucasrsnd)
