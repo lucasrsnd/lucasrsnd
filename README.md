@@ -1,11 +1,15 @@
-![](https://komarev.com/ghpvc/?username=lucasrsnd&color=006bed)
-
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Engenharia de Software na PUC Minas.
 - 💼 Buscando uma oportunidade de estágio.
 - 🌱 Aprendendo mais sobre testes automatizados, desenvolvimento backend e DevOps.
+
+<br/>
+
+<a href="https://github.com/SEU_USERNAME" title="Meu Perfil">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasrsnd&theme=dracula&show_icons=true" />
+</a>
 
 ## Minhas Skills
 
@@ -26,13 +30,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-<br/>
-
-<a href="https://github.com/SEU_USERNAME" title="Meu Perfil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasrsnd&theme=dracula&show_icons=true" />
-</a>
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-LucasResende-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasrsnd1/)](https://www.linkedin.com/in/lucasrsnd1/)   
 [![GitHub](https://img.shields.io/github/followers/lucasrsnd?label=follow&style=social)](https://github.com/lucasrsnd)
+
+![](https://komarev.com/ghpvc/?username=lucasrsnd&color=006bed)
