@@ -1,6 +1,6 @@
 # 👨‍💻 Lucas Resende
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Meu nome é Lucas Alves Resende, e atualmente estou cursando Engenharia de Software na PUC Minas. Durante a minha jornada acadêmica, tive a oportunidade de trabalhar em equipe em diversos projetos, onde aprendi a importância da colaboração e desenvolvi habilidades em várias linguagens de programação. Além disso, pude aplicar meus conhecimentos em cenários reais, criando soluções práticas e funcionais. Estou entusiasmado para expandir meus conhecimentos e continuar aprimorando minhas habilidades na área de tecnologia, e determinado a seguir um caminho de sucesso, pronto para enfrentar novos desafios e aproveitar todas as oportunidades que surgirem.
 
