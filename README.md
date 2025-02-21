@@ -1,8 +1,9 @@
 # 👨‍💻 Lucas Resende
 
-**`Desenvolvedor FullStack`**
+**`FullStack Developer`**
 
-Meu nome é Lucas Alves Resende, e atualmente estou cursando Engenharia de Software na PUC Minas. Durante a minha jornada acadêmica, tive a oportunidade de trabalhar em equipe em diversos projetos, onde aprendi a importância da colaboração e desenvolvi habilidades em várias linguagens de programação. Além disso, pude aplicar meus conhecimentos em cenários reais, criando soluções práticas e funcionais. Estou entusiasmado para expandir meus conhecimentos e continuar aprimorando minhas habilidades na área de tecnologia, e determinado a seguir um caminho de sucesso, pronto para enfrentar novos desafios e aproveitar todas as oportunidades que surgirem.
+During my academic journey, I had the opportunity to work on several projects in collaborative environments, where I learned the importance of teamwork and developed skills in Java, MySQL, Spring Boot, and JavaScript. These experiences allowed me to apply my knowledge in real scenarios, creating practical and functional solutions while improving my problem-solving abilities.
+I am always looking to expand my knowledge and refine my skills in software development, focusing on building efficient and scalable applications. I am determined to follow a successful path, embracing new challenges and making the most of every opportunity to grow in the technology field.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/lucasrsnd1/">
