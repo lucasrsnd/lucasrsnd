@@ -45,7 +45,9 @@ Durante minha jornada acadêmica, trabalhei em diversos projetos, sempre buscand
 Ao longo do curso, participei de projetos interdisciplinares desafiadores, trabalhando em ambientes colaborativos e com clientes reais. Essas experiências foram fundamentais para meu crescimento profissional e me ajudaram a desenvolver habilidades essenciais, como trabalho em equipe, resolução de problemas e pensamento crítico. Alguns dos projetos mais marcantes foram:  
 **[Chiposto](https://github.com/seu-usuario/chiposto)** → Um sistema desenvolvido para ajudar motoristas a encontrar postos de gasolina próximos, classificando-os por preço, qualidade e serviços oferecidos. O projeto visava criar uma experiência intuitiva para os usuários e permitir que donos de postos pudessem promover seus estabelecimentos.  
 **[EasyDonate](https://github.com/seu-usuario/easydonate)** → Plataforma desenvolvida para conectar doadores a instituições de caridade, tornando o processo de doação mais transparente e eficiente. O site permite que doadores encontrem instituições que realmente precisam de ajuda e escolham entre diferentes formas de contribuição. *(HTML, CSS, JavaScript, Bootstrap, Java, Spring Boot)*  
-**[TechFrotas](https://github.com/seu-usuario/techfrotas)** → Sistema criado para facilitar a gestão de frotas de caminhões de uma empresa, permitindo um maior controle sobre abastecimentos, gastos, faturamento e pagamentos. Com esse sistema, a empresa pôde automatizar tarefas que antes eram feitas manualmente, otimizando seu funcionamento. *(HTML, CSS, JavaScript, Bootstrap, Java, Spring Boot)*  
+**[TechFrotas](https://github.com/seu-usuario/techfrotas)** → Sistema criado para facilitar a gestão de frotas de caminhões de uma empresa, permitindo um maior controle sobre abastecimentos, gastos, faturamento e pagamentos. Com esse sistema, a empresa pôde automatizar tarefas que antes eram feitas manualmente, otimizando seu funcionamento. *(HTML, CSS, JavaScript, Bootstrap, Java, Spring Boot)*
+
+Além disso, tive a oportunidade de participar de um projeto extensivo na faculdade, onde ensinei jovens programadoras a utilizarem o LinkedIn para alavancar suas carreiras. Foi uma experiência incrível, ajudando essas jovens a entenderem como a plataforma pode ser uma ferramenta poderosa para o networking e desenvolvimento profissional.
 
 Sou extremamente entusiasmado com tecnologia e estou sempre buscando novos desafios para expandir meu conhecimento. Minha paixão está no desenvolvimento de soluções práticas e funcionais, que impactem positivamente o dia a dia das pessoas. A cada projeto que desenvolvo, procuro aplicar as melhores práticas de código, garantindo eficiência, escalabilidade e manutenibilidade. Além disso, sou um grande fã do trabalho em equipe! Acredito que a troca de conhecimento e a colaboração são essenciais para crescer na área da tecnologia. Adoro discutir ideias, participar de projetos desafiadores e explorar novas tendências no mundo do desenvolvimento de software. Meu objetivo é continuar aprimorando minhas habilidades e aprofundar meus conhecimentos em áreas como arquitetura de software, microsserviços e computação em nuvem. Quero seguir uma carreira focada no desenvolvimento de sistemas robustos e escaláveis, sempre buscando aprender e evoluir. Se quiser trocar uma ideia sobre tecnologia ou projetos, sinta-se à vontade para me chamar! 😃
 </div>
@@ -165,3 +167,80 @@ Sou extremamente entusiasmado com tecnologia e estou sempre buscando novos desaf
 </div>
 
 -----
+
+-----
+
+<div>
+
+📊 GitHub Stats:
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucasrsnd&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrsnd&theme=dark&locale=pt-br&langs_count=7"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrsnd&layout=pie&theme=dark&locale=pt-br"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+<table>
+<tr>
+ <td align="center">:octocat: <a href="https://www.githubwrapped.io/lucasrsnd" target="_blank">GitHub Wrapped</a></td>
+ <td align="center">:watch: contagem desde 13/03/2025 <a href="https://wakatime.com/@lucasrsnd">WakaTime</a></td>
+</tr>
+<tr>
+<td>
+<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/lucasrsnd/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
+</td>
+<td>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasrsnd&theme=dark&layout=compact"/>
+</td>
+</tr>
+<tr>
+ <td align="center"></td>
+ <td align="center"></td>
+</tr> 
+</table>
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasrsnd&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasrsnd&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasrsnd&theme=github_dark"/>
+</td>
+</tr>
+<tr>
+<td>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasrsnd&theme=github_dark&utcOffset=8"/>
+</td>
+<td>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasrsnd&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=lucasrsnd&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+</div>
+</div>
