@@ -281,7 +281,6 @@ Sou extremamente entusiasmado com tecnologia e estou sempre buscando novos desaf
 </tr> 
 </table>
 <img width="175" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=lucasrsnd"/>
-<a href="https://wakatime.com/@lucasrsnd"><img src="https://wakatime.com/badge/user/353fdbc4-c6bd-4e5b-af96-09771e55bf57.svg" alt="Total time coded since Mar 13 2025" /></a>
 <img alt="Followers" src="https://img.shields.io/github/followers/lucasrsnd?style=social"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/lucasrsnd?style=social"/>
 <a href="/img/pix.png" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
@@ -292,10 +291,7 @@ Sou extremamente entusiasmado com tecnologia e estou sempre buscando novos desaf
 <div>
 <table align="right">
 <tr>
- <td align="center" colspan="1">Pix</td>
-</tr> 
-<tr>
-<td><img src="/img/pix.png" width="70px" height="70px"/></td>
+<td><img src="/img/pix.png" width="55px" height="55px"/></td> 
 </tr>
 </table>
 <a href="https://www.linkedin.com/in/lucasrsnd/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -313,3 +309,40 @@ Sou extremamente entusiasmado com tecnologia e estou sempre buscando novos desaf
 </div>
 
 -----
+
+<div align="center">
+  
+```text
+██╗     ██╗   ██╗ ██████╗  █████╗ ███████╗
+██║     ██║   ██║██╔════╝ ██╔══██╗██╔════╝
+██║     ██║   ██║██║      ███████║███████╗
+██║     ██║   ██║██║      ██╔══██║╚════██║
+███████╗╚██████╔╝╚██████╔╝██║  ██║███████║
+╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝
+```
+
+</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0000ffD&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
+
+<div>
+<table>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+<tr>
+<td>
+<a href="mailto:joaopauloaramuni@gmail.com" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter2.png?raw=true" alt="github-footer2"/></a>
+</td>
+<td>
+<a href="https://github.com/joaopauloaramuni" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter1.png?raw=true" alt="github-footer1"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
+</div>
+
+-----
+
