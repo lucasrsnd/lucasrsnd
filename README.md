@@ -38,7 +38,7 @@
 ☝️🤓 Sobre mim:
 
 <div align="justify">
-Olá! Meu nome é Lucas Resende e sou um apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou cursando Engenharia de Software na PUC Minas, onde tenho tido a oportunidade de expandir meus conhecimentos em diversas áreas da computação, desde desenvolvimento web até arquitetura de sistemas complexos.
+Olá! Meu nome é Lucas e sou um apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou cursando Engenharia de Software na PUC Minas, onde tenho tido a oportunidade de expandir meus conhecimentos em diversas áreas da computação, desde desenvolvimento web até arquitetura de sistemas complexos.
 
 Durante minha jornada acadêmica, trabalhei em diversos projetos, sempre buscando aprimorar minhas habilidades e aprender novas tecnologias. Minha principal stack inclui Java, MySQL, Spring Boot e JavaScript, mas estou sempre explorando novas ferramentas para melhorar minhas aplicações e torná-las mais eficientes e escaláveis.
 
@@ -49,7 +49,11 @@ Ao longo do curso, participei de projetos interdisciplinares desafiadores, traba
 
 Além disso, tive a oportunidade de participar de um projeto extensivo na faculdade, onde ensinei jovens programadoras a utilizarem o LinkedIn para alavancar suas carreiras. Foi uma experiência incrível, ajudando essas jovens a entenderem como a plataforma pode ser uma ferramenta poderosa para o networking e desenvolvimento profissional.
 
-Sou extremamente entusiasmado com tecnologia e estou sempre buscando novos desafios para expandir meu conhecimento. Minha paixão está no desenvolvimento de soluções práticas e funcionais, que impactem positivamente o dia a dia das pessoas. A cada projeto que desenvolvo, procuro aplicar as melhores práticas de código, garantindo eficiência, escalabilidade e manutenibilidade. Além disso, sou um grande fã do trabalho em equipe! Acredito que a troca de conhecimento e a colaboração são essenciais para crescer na área da tecnologia. Adoro discutir ideias, participar de projetos desafiadores e explorar novas tendências no mundo do desenvolvimento de software. Meu objetivo é continuar aprimorando minhas habilidades e aprofundar meus conhecimentos em áreas como arquitetura de software, microsserviços e computação em nuvem. Quero seguir uma carreira focada no desenvolvimento de sistemas robustos e escaláveis, sempre buscando aprender e evoluir. Se quiser trocar uma ideia sobre tecnologia ou projetos, sinta-se à vontade para me chamar! 😃
+Ademais, já atuei como freelancer, desenvolvendo projetos sob demanda para clientes diversos. Trabalhar como freelancer me proporcionou uma vivência prática na resolução de problemas reais e na gestão de prazos e requisitos. Desenvolvi soluções personalizadas, como sites institucionais, sistemas web e pequenas aplicações, sempre buscando entregar produtos de qualidade e que realmente atendessem às necessidades dos clientes. Essa experiência também me ajudou a aprimorar minha capacidade de comunicação e negociação, habilidades essenciais para lidar com clientes e garantir a satisfação deles.
+
+Também possuo experiência como designer gráfico, trabalhando com criação de identidades visuais, materiais para redes sociais e design de interfaces. Meu conhecimento em ferramentas como Photoshop e Illustrator me permitiu desenvolver projetos criativos e funcionais, agregando valor à comunicação visual das marcas para as quais trabalhei.
+
+Minha paixão está no desenvolvimento de soluções práticas e funcionais, que impactem positivamente o dia a dia das pessoas. A cada projeto que desenvolvo, procuro aplicar as melhores práticas de código, garantindo eficiência, escalabilidade e manutenibilidade. Além disso, sou um grande fã do trabalho em equipe! Acredito que a troca de conhecimento e a colaboração são essenciais para crescer na área da tecnologia. Adoro discutir ideias, participar de projetos desafiadores e explorar novas tendências no mundo do desenvolvimento de software. Meu objetivo é continuar aprimorando minhas habilidades e aprofundar meus conhecimentos. Quero seguir uma carreira focada no desenvolvimento de sistemas eficientes e de alto desempenho, sempre buscando aprender e evoluir. Se quiser trocar uma ideia sobre tecnologia ou projetos, sinta-se à vontade para me chamar! 😃
 </div>
 
 -----
@@ -326,23 +330,28 @@ Sou extremamente entusiasmado com tecnologia e estou sempre buscando novos desaf
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0000ffD&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
 
 <div>
-<table>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-<tr>
-<td>
-<a href="lucasalves2180@gmail.com" target="_blank"><img align="center" width="400px" height="120px" src="/img/email.png" alt="github-footer2"/></a>
-</td>
-<td>
-<a href="https://github.com/lucasrsnd" target="_blank"><img align="center" width="400px" height="120px" src="/img/visita.png" alt="github-footer1"/></a>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-</table>
+  <table width="100%">
+    <tr>
+      <td align="center" colspan="2"></td>
+    </tr> 
+    <tr>
+      <td width="50%" align="center">
+        <a href="mailto:lucasalves2180@gmail.com" target="_blank">
+          <img width="100%" height="120px" src="/img/email.png" alt="github-footer2"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/lucasrsnd" target="_blank">
+          <img width="100%" height="120px" src="/img/visita.png" alt="github-footer1"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2"></td>
+    </tr> 
+  </table>
 </div>
+
 
 -----
 
