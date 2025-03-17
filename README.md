@@ -197,7 +197,7 @@ Sou extremamente entusiasmado com tecnologia e estou sempre buscando novos desaf
 <table>
 <tr>
  <td align="center">:octocat: <a href="https://www.githubwrapped.io/lucasrsnd" target="_blank">GitHub Wrapped</a></td>
- <td align="center">:watch: contagem desde 13/03/2025 <a href="https://wakatime.com/@lucasrsnd">WakaTime</a></td>
+ <td align="center">:watch: Contagem desde: 13/03/2025 <a href="https://wakatime.com/@lucasrsnd">WakaTime</a></td>
 </tr>
 <tr>
 <td>
@@ -243,6 +243,73 @@ Sou extremamente entusiasmado com tecnologia e estou sempre buscando novos desaf
 </tr> 
 </table>
 </div>
+</div>
+
+-----
+
+<div>
+<details>
+<summary>🎵 Lucas Resende´s Spotify Data 🎵</summary>
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=lucasrsnd1" alt="Data Card for Spotify">
+</details>
+</div>
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+<tr>
+<td>
+<img alt="Spotify" width="300px" height="400px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=lucasrsnd1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+</td>
+<td>
+<img alt="Spotify list" width="300px" height="400px" src="https://spotify-recently-played-readme.vercel.app/api?user=lucasrsnd1"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
+</div>
+
+-----
+
+<div>
+<table align="right">
+<tr>
+</tr> 
+</table>
+<img width="175" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=lucasrsnd"/>
+<a href="https://wakatime.com/@lucasrsnd"><img src="https://wakatime.com/badge/user/353fdbc4-c6bd-4e5b-af96-09771e55bf57.svg" alt="Total time coded since Mar 13 2025" /></a>
+<img alt="Followers" src="https://img.shields.io/github/followers/lucasrsnd?style=social"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/lucasrsnd?style=social"/>
+<a href="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/pix10.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
+</div>
+
+-----
+
+<div>
+<table align="right">
+<tr>
+ <td align="center" colspan="1">Pix</td>
+</tr> 
+<tr>
+<td><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/qrcode-pix.png?raw=true" width="70px" height="70px"/></td>
+</tr>
+</table>
+<a href="https://www.linkedin.com/in/lucasrsnd/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:lucasalves2180@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/5532999430189" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://open.spotify.com/user/lucasrsnd1?si=be22d53f7d924f12" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
+<a href="https://www.instagram.com/lucasrsnd1/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.playstation.com/pt-br/support/account/add-friends-psn/" target="_blank"><img alt="PSN" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/></a>
+<a href="https://steamcommunity.com/id/zombzinn/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a><br />
+<a href="https://www.twitch.tv/zombzin" target="_blank"><img alt="twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/29984813/lucasrsnd" target="_blank"><img alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+<a href="https://gitlab.com/lucasrsnd" target="_blank"><img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+<a href="https://github.com/lucasrsnd" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://replit.com/@lucasrsnd" target="_blank"><img alt="replit" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=orange"/></a>
 </div>
 
 -----
