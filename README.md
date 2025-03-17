@@ -284,7 +284,7 @@ Sou extremamente entusiasmado com tecnologia e estou sempre buscando novos desaf
 <a href="https://wakatime.com/@lucasrsnd"><img src="https://wakatime.com/badge/user/353fdbc4-c6bd-4e5b-af96-09771e55bf57.svg" alt="Total time coded since Mar 13 2025" /></a>
 <img alt="Followers" src="https://img.shields.io/github/followers/lucasrsnd?style=social"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/lucasrsnd?style=social"/>
-<a href="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/pix10.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
+<a href="/img/pix.png" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
 </div>
 
 -----
@@ -295,7 +295,7 @@ Sou extremamente entusiasmado com tecnologia e estou sempre buscando novos desaf
  <td align="center" colspan="1">Pix</td>
 </tr> 
 <tr>
-<td><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/qrcode-pix.png?raw=true" width="70px" height="70px"/></td>
+<td><img src="/img/pix.png" width="70px" height="70px"/></td>
 </tr>
 </table>
 <a href="https://www.linkedin.com/in/lucasrsnd/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
