@@ -43,9 +43,9 @@ Olá! Meu nome é Lucas Resende e sou um apaixonado por tecnologia e desenvolvim
 Durante minha jornada acadêmica, trabalhei em diversos projetos, sempre buscando aprimorar minhas habilidades e aprender novas tecnologias. Minha principal stack inclui Java, MySQL, Spring Boot e JavaScript, mas estou sempre explorando novas ferramentas para melhorar minhas aplicações e torná-las mais eficientes e escaláveis.
 
 Ao longo do curso, participei de projetos interdisciplinares desafiadores, trabalhando em ambientes colaborativos e com clientes reais. Essas experiências foram fundamentais para meu crescimento profissional e me ajudaram a desenvolver habilidades essenciais, como trabalho em equipe, resolução de problemas e pensamento crítico. Alguns dos projetos mais marcantes foram:  
-**[Chiposto](https://github.com/seu-usuario/chiposto)** → Um sistema desenvolvido para ajudar motoristas a encontrar postos de gasolina próximos, classificando-os por preço, qualidade e serviços oferecidos. O projeto visava criar uma experiência intuitiva para os usuários e permitir que donos de postos pudessem promover seus estabelecimentos.  
-**[EasyDonate](https://github.com/seu-usuario/easydonate)** → Plataforma desenvolvida para conectar doadores a instituições de caridade, tornando o processo de doação mais transparente e eficiente. O site permite que doadores encontrem instituições que realmente precisam de ajuda e escolham entre diferentes formas de contribuição. *(HTML, CSS, JavaScript, Bootstrap, Java, Spring Boot)*  
-**[TechFrotas](https://github.com/seu-usuario/techfrotas)** → Sistema criado para facilitar a gestão de frotas de caminhões de uma empresa, permitindo um maior controle sobre abastecimentos, gastos, faturamento e pagamentos. Com esse sistema, a empresa pôde automatizar tarefas que antes eram feitas manualmente, otimizando seu funcionamento. *(HTML, CSS, JavaScript, Bootstrap, Java, Spring Boot)*
+**[Chiposto](https://github.com/lucasrsnd/Projetos-Full-stack/chiposto)** → Um sistema desenvolvido para ajudar motoristas a encontrar postos de gasolina próximos, classificando-os por preço, qualidade e serviços oferecidos. O projeto visava criar uma experiência intuitiva para os usuários e permitir que donos de postos pudessem promover seus estabelecimentos.  
+**[EasyDonate](https://github.com/lucasrsnd/Projetos-Full-stack/easydonate)** → Plataforma desenvolvida para conectar doadores a instituições de caridade, tornando o processo de doação mais transparente e eficiente. O site permite que doadores encontrem instituições que realmente precisam de ajuda e escolham entre diferentes formas de contribuição. *(HTML, CSS, JavaScript, Bootstrap, Java, Spring Boot)*  
+**[TechFrotas](https://github.com/lucasrsnd/Projetos-Full-stack/techfrotas)** → Sistema criado para facilitar a gestão de frotas de caminhões de uma empresa, permitindo um maior controle sobre abastecimentos, gastos, faturamento e pagamentos. Com esse sistema, a empresa pôde automatizar tarefas que antes eram feitas manualmente, otimizando seu funcionamento. *(HTML, CSS, JavaScript, Bootstrap, Java, Spring Boot)*
 
 Além disso, tive a oportunidade de participar de um projeto extensivo na faculdade, onde ensinei jovens programadoras a utilizarem o LinkedIn para alavancar suas carreiras. Foi uma experiência incrível, ajudando essas jovens a entenderem como a plataforma pode ser uma ferramenta poderosa para o networking e desenvolvimento profissional.
 
@@ -243,71 +243,6 @@ Sou extremamente entusiasmado com tecnologia e estou sempre buscando novos desaf
 </tr> 
 </table>
 </div>
-</div>
-
-<div>
-<details>
-<summary><img height="20" alt="GIF" src="https://github.com/lucasrsnd/lucasrsnd/blob/main/img/graphic.gif?raw=true"/>&nbsp;Veja mais
-</summary>
-<br />
-
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="2">:octocat: GitHub Metrics</td>
-</tr>
-<tr>
-<td>
-<img width="400px" src="metrics.classic.svg" alt="Metrics">
-</td>
-<td>
-<img width="400px" src="metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
-</td>
-</tr>
-<tr>
-<td>
-<img width="400px" src="metrics.plugin.stars.svg" alt="Metrics">
-</td>
-<td>
-<img width="400px" src="metrics.plugin.activity.svg" alt="Metrics">
-</td>
-</tr>
-<tr>
-<td>
-<img width="400px" src="metrics.plugin.people.followers.svg" alt="Metrics">
-</td>
-<td>
-<img width="400px" src="metrics.plugin.stargazers.svg" alt="Metrics">
-</td>
-</tr>
-<tr>
-<td>
-<img width="400px" src="metrics.plugin.topics.icons.svg" alt="Metrics">
-</td>
-<td>
-<img width="400px" src="metrics.terminal.svg" alt="Metrics">
-</td>
-</tr>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-</table>
-</div>
-
-<div align="center">
-<table>
-<tr>
- <td align="center">:octocat: GitHub 5-Year Retrospective</td>
-</tr>
-<tr>
- <td align="center">
-  <img src="https://github.com/lucasrsnd/lucasrsnd/blob/main/img/postspark_export_12-16-2024_17-14-32.png" alt="GitHub 5-Year Retrospective">
- </td>
-</tr>
-</table>
-</div>
-
-</details>
 </div>
 
 -----
