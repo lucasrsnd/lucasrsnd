@@ -73,7 +73,6 @@ Minha paixão está no desenvolvimento de soluções práticas e funcionais, que
 - 🎓 <code>Estudante</code> de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.<br />
 - 🌀 Tenho interesse em trabalhar como desenvolvedor backend.<br/>
 - ☕ Sou entusiasta da linguagem java, veja alguns projetos que fiz <a href="https://github.com/lucasrsnd/Java" target="_blank">aqui</a>.<br />
-- :soccer: Sou cruzeirense, torço para o <a href="https://loja.cruzeiro.com.br/" target="_blank">cabuloso</a>. 🦊<br />
 - 🎸 Meus passatempos favoritos são ir à academia, escutar música, jogar jogos, assistir futebol, tocar guitarra e dirigir.<br />
 - 📚 Sempre fazendo alguns cursos, curto bastante aprender coisas novas.<br />
 - :mailbox: Para me encontrar, este é meu <a href="mailto:lucasalves2180@gmail.com" target="_blank">e-mail</a>.<br />
