@@ -346,3 +346,20 @@ Sou extremamente entusiasmado com tecnologia e estou sempre buscando novos desaf
 
 -----
 
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="1"></td>
+</tr>
+<tr>
+<td>
+<img alt="Quotes" height="180px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="1"></td>
+</tr> 
+</table>
+</div>
+
+-----
