@@ -200,7 +200,7 @@ Minha paixão está no desenvolvimento de soluções práticas e funcionais, que
 <table>
 <tr>
  <td align="center">:octocat: <a href="https://www.githubwrapped.io/lucasrsnd" target="_blank">GitHub Wrapped</a></td>
- <td align="center">:watch: Contagem desde: 13/03/2025 <a href="https://wakatime.com/@lucasrsnd">WakaTime</a></td>
+ <td align="center">:watch: SINCE MAR 13 2025 <a href="https://wakatime.com/@lucasrsnd">WakaTime</a></td>
 </tr>
 <tr>
 <td>
