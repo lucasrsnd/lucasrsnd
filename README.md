@@ -303,7 +303,7 @@ Minha paixão está no desenvolvimento de soluções práticas e funcionais, que
 <a href="https://open.spotify.com/user/lucasrsnd1?si=be22d53f7d924f12" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 <a href="https://www.instagram.com/lucasrsnd1/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.playstation.com/pt-br/support/account/add-friends-psn/" target="_blank"><img alt="PSN" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/></a>
-<a href="https://steamcommunity.com/id/zombzinn/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a><br />
+<a href="https://steamcommunity.com/id/zombzinn/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
 <a href="https://www.twitch.tv/zombzin" target="_blank"><img alt="twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/29984813/lucasrsnd" target="_blank"><img alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 <a href="https://gitlab.com/lucasrsnd" target="_blank"><img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
