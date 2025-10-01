@@ -30,7 +30,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou <code>Lucas Resende</code>, tenho 19 anos, moro em BH e sou estudante de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> ‍🎓<br />
+<i><b>Olá</b> :wave:, sou <code>Lucas Resende</code>, tenho 20 anos, moro em BH e sou estudante de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> ‍🎓<br />
 </div>
 
 -----
