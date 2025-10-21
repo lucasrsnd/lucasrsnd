@@ -30,33 +30,42 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou <code>Lucas Resende</code>, tenho 20 anos, moro em BH e sou estudante de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> ‍🎓<br />
+<i><b>Olá</b> :wave:, sou <code>Lucas Resende</code>, tenho 20 anos, moro em Belo Horizonte (MG) e sou estudante de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> ‍🎓<br />
 </div>
 
 -----
 
-☝️🤓 Sobre mim:
+# Sobre mim
 
-<div align="justify">
-Olá! Meu nome é Lucas e sou um apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou cursando Engenharia de Software na PUC Minas, onde tenho tido a oportunidade de expandir meus conhecimentos em diversas áreas da computação, desde desenvolvimento web até arquitetura de sistemas complexos.
+Meu nome é **Lucas Resende** e atuo como desenvolvedor fullstack com experiência em sistemas web e aplicações escaláveis. Atualmente, curso **Engenharia de Software na PUC Minas**, onde aprofundei conhecimentos em **desenvolvimento web, arquitetura de sistemas e metodologias ágeis**.  
 
-Durante minha jornada acadêmica, trabalhei em diversos projetos, sempre buscando aprimorar minhas habilidades e aprender novas tecnologias. Minha principal stack inclui Java, Spring Boot, PostgreSQL, APIs RESTful e JavaScript, mas estou sempre explorando novas ferramentas para melhorar minhas aplicações e torná-las mais eficientes e escaláveis.
+Ao longo da minha trajetória, desenvolvi diversos projetos próprios que consolidaram minhas habilidades técnicas e capacidade de entregar soluções completas e funcionais. Minha **principal stack** inclui **Java, Spring Boot, PostgreSQL, APIs RESTful e JavaScript**, mas estou sempre explorando novas tecnologias para criar aplicações mais eficientes e escaláveis.  
 
-Ao longo do curso, participei de projetos interdisciplinares desafiadores, trabalhando em ambientes colaborativos e com clientes reais. Essas experiências foram fundamentais para meu crescimento profissional e me ajudaram a desenvolver habilidades essenciais, como trabalho em equipe, resolução de problemas e pensamento crítico. Alguns dos projetos mais marcantes foram:  
-**[BioMeta](https://biometa.vercel.app/)** → uma aplicação web voltada para saúde e bem-estar que organiza treinos, alimentação, hidratação e planejamento diário em um só lugar. Com ela, usuários conseguem reduzir o uso de blocos de notas e planilhas dispersas, centralizando toda a rotina saudável de forma prática e interativa.
-**[Renovaí](https://github.com/lucasrsnd/renovai)** → gerenciador de assinaturas web que organiza todos os serviços recorrentes em um só lugar. Com ele, usuários conseguem controlar pagamentos, acompanhar vencimentos e visualizar gastos mensais, reduzindo a dependência de planilhas ou blocos de notas e trazendo mais clareza e organização financeira.
-**[Apetito](https://github.com/lucasrsnd/ti-4-apetito)** → é uma solução de software desenvolvida para modernizar a gestão do restaurante Apetito, substituindo processos manuais com papel por um sistema digital completo. O projeto trouxe melhorias significativas na organização de pedidos, controle de estoque, gestão de funcionários e finanças, aumentando a eficiência operacional e reduzindo erros administrativos.
+## Projetos Pessoais
 
-Além disso, tive a oportunidade de participar de um projeto extensivo na faculdade, onde ensinei jovens programadoras a utilizarem o LinkedIn para alavancar suas carreiras. Foi uma experiência incrível, ajudando essas jovens a entenderem como a plataforma pode ser uma ferramenta poderosa para o networking e desenvolvimento profissional.
+- **[BioMeta](https://biometa.vercel.app/)**: aplicação web voltada para saúde e bem-estar, que organiza treinos, alimentação, hidratação e planejamento diário em um só lugar. Centraliza toda a rotina saudável de forma prática, reduzindo a dependência de blocos de notas e planilhas dispersas.  
 
-Ademais, já atuei como freelancer, desenvolvendo projetos sob demanda para clientes diversos. Trabalhar como freelancer me proporcionou uma vivência prática na resolução de problemas reais e na gestão de prazos e requisitos. Desenvolvi soluções personalizadas, como sites institucionais, sistemas web e pequenas aplicações, sempre buscando entregar produtos de qualidade e que realmente atendessem às necessidades dos clientes. Essa experiência também me ajudou a aprimorar minha capacidade de comunicação e negociação, habilidades essenciais para lidar com clientes e garantir a satisfação deles.
+- **[Renovaí](https://github.com/lucasrsnd/renovai)**: gerenciador de assinaturas web que permite controlar pagamentos, acompanhar vencimentos e visualizar gastos mensais. Auxilia na organização financeira pessoal e reduz erros de controle manual.  
 
-Também possuo experiência como designer gráfico, trabalhando com criação de identidades visuais, materiais para redes sociais e design de interfaces. Meu conhecimento em ferramentas como Photoshop e Illustrator me permitiu desenvolver projetos criativos e funcionais, agregando valor à comunicação visual das marcas para as quais trabalhei.
+- **[Apetito](https://github.com/lucasrsnd/ti-4-apetito)**: sistema para modernizar a gestão do restaurante Apetito, substituindo processos manuais por uma solução digital completa. Melhorou a organização de pedidos, controle de estoque, gestão de funcionários e finanças.  
 
-Minha paixão está no desenvolvimento de soluções práticas e funcionais, que impactem positivamente o dia a dia das pessoas. A cada projeto que desenvolvo, procuro aplicar as melhores práticas de código, garantindo eficiência, escalabilidade e manutenibilidade. Além disso, sou um grande fã do trabalho em equipe! Acredito que a troca de conhecimento e a colaboração são essenciais para crescer na área da tecnologia. Adoro discutir ideias, participar de projetos desafiadores e explorar novas tendências no mundo do desenvolvimento de software. Meu objetivo é continuar aprimorando minhas habilidades e aprofundar meus conhecimentos. Quero seguir uma carreira focada no desenvolvimento de sistemas eficientes e de alto desempenho, sempre buscando aprender e evoluir. Se quiser trocar uma ideia sobre tecnologia ou projetos, sinta-se à vontade para me chamar! 😃
-</div>
+Além desses, também participei de **projetos acadêmicos desafiadores**, incluindo iniciativas extensionistas, onde auxiliei jovens programadoras a utilizar o **LinkedIn para alavancar suas carreiras**, proporcionando aprendizado prático e mentoria profissional.  
 
------
+## Experiência Profissional e Freelance
+
+Atuei como **freelancer desenvolvedor web fullstack**, criando soluções sob demanda para clientes variados, como **sites institucionais, sistemas web e pequenas aplicações personalizadas**. Essa experiência reforçou minhas habilidades em **resolução de problemas reais, gestão de prazos, comunicação com clientes** e entrega de produtos de qualidade.  
+
+Também possuo experiência como **designer gráfico**, desenvolvendo identidades visuais, materiais para redes sociais e interfaces de usuário com ferramentas como **Photoshop e Illustrator**, agregando valor à comunicação visual dos projetos.  
+
+## Objetivo Profissional
+
+Meu foco é desenvolver soluções **práticas, eficientes e de alto impacto**, aplicando **boas práticas de código, escalabilidade e manutenção**. Valorizo o **trabalho em equipe**, a troca de conhecimento e a colaboração em projetos desafiadores.  
+
+Busco continuamente aprimorar minhas habilidades e aprofundar meus conhecimentos em desenvolvimento de software, contribuindo para projetos inovadores e relevantes.  
+
+Se quiser conversar sobre **tecnologia, projetos ou oportunidades de colaboração**, sinta-se à vontade para me chamar! 😃
+
+
 
 <div>
 
